@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Amye's Test 1]]></title>
+        <description><![CDATA[Amye's Test 1]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 27 Nov 2015 21:02:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Test</p>]]></description>
+            <link>undefinedafb71e07-59eb-40eb-8438-fd2ea9d2b5fd/index.html</link>
+            <guid isPermaLink="false">afb71e07-59eb-40eb-8438-fd2ea9d2b5fd</guid>
+            <pubDate>Fri, 27 Nov 2015 21:02:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
