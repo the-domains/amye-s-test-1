@@ -1,7 +1,7 @@
 name: "Amye's Test 1"
 favicon: null
 layout_spectrum: 0.9052000793162733
-typography_spectrum: 0.8280785784590989
+typography_spectrum: 0.75
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.2969820168800652
-  lightness: 0.5204343772493303
+    - '#ffffff'
+    - '#060701'
+    - '#536a00'
+    - '#819523'
+    - '#cfb768'
+  brandStrength: 0.375
+  lightness: 0.6875
   saturation: 0.8703087472822517
-  rhythmicContrast: 0.183264049468562
+  rhythmicContrast: 0.5
 purpose: []
